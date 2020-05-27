@@ -1,0 +1,16 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Tesis.aux
+The style file: unsrt.bst
+Database file #1: biblio.bib
+Repeated entry---line 185 of file biblio.bib
+ : @book{baudouin2012incas
+ :                        ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Mulato2016
+Warning--empty journal in RahmanNunez2017
+Warning--empty journal in PardinaBustamante2016
+Warning--empty year in moyadesarrollo
+Warning--empty institution in Acerenza2009
+Name 1 in "{A. Barreno, G. Alexander, S. Guaraca}, and M. Gonzalo" has a comma at the end for entry Implementacion2011
+while executing---line 944 of file unsrt.bst
+Warning--empty journal in Implementacion2011
+(There were 2 error messages)
